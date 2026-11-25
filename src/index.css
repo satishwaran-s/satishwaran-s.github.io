@@ -22,15 +22,15 @@
 }
 
 .dark {
-  --color-bg: #151713;
-  --color-surface: #20231d;
-  --color-surface-2: #34392d;
-  --color-border: #34392d;
-  --color-ink: #e8ede1;
-  --color-heading: #e8ede1;
-  --color-muted: #34392d;
+  --color-bg: #0a0a0a;
+  --color-surface: #111111;
+  --color-surface-2: #161a16;
+  --color-border: #161a16;
+  --color-ink: #e2e6de;
+  --color-heading: #ffffff;
+  --color-muted: #a8b2a8;
   --color-accent: #a9d83b;
-  --color-accent-soft: rgba(208, 244, 119, 0.1);
+  --color-accent-soft: rgba(208, 244, 119, 0.15);
 
   --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.35);
   --shadow-lift: 0 8px 30px rgba(0, 0, 0, 0.5);
