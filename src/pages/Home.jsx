@@ -20,7 +20,7 @@ export default function Home() {
       <section className="relative overflow-hidden">
         <div
           aria-hidden="true"
-          className="pointer-events-none absolute inset-0 opacity-[0.04] dark:opacity-[0.12]"
+          className="pointer-events-none absolute inset-0 opacity-[0.06] dark:opacity-[0.12]"
           style={{
             backgroundImage:
               "linear-gradient(var(--color-heading) 1px, transparent 1px), linear-gradient(90deg, var(--color-heading) 1px, transparent 1px)",
